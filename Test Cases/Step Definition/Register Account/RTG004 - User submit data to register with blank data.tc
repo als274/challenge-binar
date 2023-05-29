@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTG004 - User submit data to register with blank data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b74ad1bf-e191-4c5d-8b7a-49dd401f9656</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input_Nama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f647539-5d99-477d-b8cf-4c5f789c15ce</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a07e8f87-75bc-4920-8570-bdb22dde464f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6d167d6b-dfc4-4a3f-9d64-b00356f9f141</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>12b89f0e-6975-41bf-8a76-31032cf3c78f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a07e8f87-75bc-4920-8570-bdb22dde464f</id>
+      <masked>false</masked>
+      <name>nama</name>
+   </variable>
+   <variable>
+      <defaultValue>'alda@yahoo.com'</defaultValue>
+      <description></description>
+      <id>6d167d6b-dfc4-4a3f-9d64-b00356f9f141</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345678'</defaultValue>
+      <description></description>
+      <id>12b89f0e-6975-41bf-8a76-31032cf3c78f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
