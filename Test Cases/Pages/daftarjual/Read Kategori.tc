@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To read kategori</description>
+   <name>Read Kategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b689869b-1403-4837-b422-f854fb704ad4</testCaseGuid>
+</TestCaseEntity>

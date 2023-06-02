@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To input harga produk</description>
+   <name>Input Harga Produk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7ee8680-91e3-4bff-9811-f98e900902a3</testCaseGuid>
+</TestCaseEntity>
