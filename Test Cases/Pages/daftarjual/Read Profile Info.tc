@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>to read profile info</description>
+   <name>Read Profile Info</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb48c79c-12f1-4bd2-8bb8-c4e6f09704c6</testCaseGuid>
+</TestCaseEntity>

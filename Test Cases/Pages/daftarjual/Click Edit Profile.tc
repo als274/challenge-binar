@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To edit profile</description>
+   <name>Click Edit Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cad2674-e663-4f3b-93c7-cfa863351bef</testCaseGuid>
+</TestCaseEntity>
