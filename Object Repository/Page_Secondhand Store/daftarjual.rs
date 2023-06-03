@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c497616e-1722-44d8-addc-095c6d6d4780</webElementGuid>
+      <webElementGuid>f8e2b7cb-8462-4de5-afdc-fa8a52c9eb3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>9b3110d8-7ddc-40c9-afd9-439f7694b242</webElementGuid>
+      <webElementGuid>aaaf359e-665f-4f81-b291-6f65455ef198</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/daftarjual</value>
-      <webElementGuid>d1c7a543-535b-4db5-8a11-f52036ec14b4</webElementGuid>
+      <webElementGuid>4ae4ba05-92f2-43c5-b0bd-7d6870bb7da9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarText&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[1]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>db13431f-0649-4648-ba91-d2dfeace9a41</webElementGuid>
+      <webElementGuid>0c3309c1-2f1b-43f2-ac75-38e6b37c700d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarText']/ul/li/a</value>
-      <webElementGuid>10f9a784-2fff-48f7-b7a5-21d5e8df84fc</webElementGuid>
+      <webElementGuid>22c014b2-d6d7-4513-9957-17407a768c8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Penawaran Produk'])[1]/preceding::a[1]</value>
-      <webElementGuid>354ba7ad-2949-4b43-916b-25b4de1f0add</webElementGuid>
+      <webElementGuid>8a7784ef-7e6d-42a8-a23d-6d5805e28826</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamera'])[1]/preceding::a[1]</value>
-      <webElementGuid>7b06fc7d-7f7e-48a5-b94b-ebc3f9b04e50</webElementGuid>
+      <webElementGuid>a4650880-32ec-41e3-bbe4-98c836f1f251</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/daftarjual')]</value>
-      <webElementGuid>f9e14338-1ea6-477c-873d-cee4c92661d6</webElementGuid>
+      <webElementGuid>d2e419f5-7b80-4c8e-8a12-f62a450731e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>1dadb9d1-a9a4-49a8-9d66-b8d7b8e4f35b</webElementGuid>
+      <webElementGuid>5e633991-591b-4b88-b780-b8ef6d340950</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/daftarjual']</value>
-      <webElementGuid>a59ee6b9-9ce8-47a5-8a64-0468ded1efe1</webElementGuid>
+      <webElementGuid>5bd10a3a-2a6f-405d-9356-bdf4cc5f03ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -26,7 +26,7 @@ class Hook {
 	def openBrowser() {
 		WebUI.openBrowser('');
 	//	WebUI.maximizeWindow();
-		WebUI.navigateToUrl('https://secondhand-store.herokuapp.com/daftarjual');
+		WebUI.navigateToUrl('https://secondhand-store.herokuapp.com/');
 	}
 		
 	def closeBrowser() {

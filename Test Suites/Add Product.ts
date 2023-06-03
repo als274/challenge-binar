@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>false</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>e0c60fd2-4ec1-4866-8a18-3f1b481d4d9c</testSuiteGuid>
+   <testSuiteGuid>eacb8a02-5cbf-4a9d-a2dc-4ffd33408f2e</testSuiteGuid>
    <testCaseLink>
-      <guid>a97ab734-deb1-450f-8252-a1c3a7647728</guid>
+      <guid>e28de02c-964d-4cd7-b88a-dae01f095604</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Step Definition/Feature Add Product/AP001 - Test Upload Product</testCaseId>
+      <testCaseId>Test Cases/stepDefinition/Feature Add Product/AP001 - Test Upload Product</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

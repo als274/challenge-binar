@@ -10,6 +10,10 @@
          <value>#kategori</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'kategori' and (text() = 'Pilih KategoriHobyKendaraanBajuElektronikKesehatan' or . = 'Pilih KategoriHobyKendaraanBajuElektronikKesehatan')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//select[@id='kategori']</value>
       </entry>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>eab9b354-1b39-4d95-b709-f613262a3613</webElementGuid>
+      <webElementGuid>a5f3f629-c3b2-4a8a-9bb4-1eaf48336d31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>724d363d-b845-490b-a396-493a0930bf36</webElementGuid>
+      <webElementGuid>3c618a7c-9746-43fb-bc98-09db8b50ba34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>kategori</value>
-      <webElementGuid>ee7f9f3c-60d0-45ad-8b14-79399df76e11</webElementGuid>
+      <webElementGuid>edde0d3e-e34e-4b7a-9793-28b8c92a2f34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih KategoriHobyKendaraanBajuElektronikKesehatan</value>
-      <webElementGuid>b66932be-f0dd-42ec-bce4-4977f3cbb5d7</webElementGuid>
+      <webElementGuid>c4049128-e00d-43a9-8c69-25be8e29b99d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kategori&quot;)</value>
-      <webElementGuid>d91ecde8-c8cf-4b2a-8e91-113ebb965e14</webElementGuid>
+      <webElementGuid>e1cfbb23-b13a-465d-ac35-56db764c9058</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='kategori']</value>
-      <webElementGuid>555c4112-149d-41a3-b38c-98439300d804</webElementGuid>
+      <webElementGuid>e36cff6a-8763-4b45-afdb-56703878bcd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/form/div[3]/select</value>
-      <webElementGuid>661adfdd-26e9-4546-ac44-6062b8011e84</webElementGuid>
+      <webElementGuid>7c6e327b-3f13-41fd-ad1c-cbfb2164490f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::select[1]</value>
-      <webElementGuid>c2536a21-715f-4e59-bfb1-37381e09a004</webElementGuid>
+      <webElementGuid>2a3527ca-2474-4eeb-9612-65a4165f4e74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Produk'])[1]/following::select[1]</value>
-      <webElementGuid>26f966e6-abbd-45dc-b95f-cdc8ecebb4eb</webElementGuid>
+      <webElementGuid>ebbc16e3-7bfa-45a6-812c-38c70e78ac61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/preceding::select[1]</value>
-      <webElementGuid>82a56fa0-f7ca-4278-aea8-9acfa79ee5fb</webElementGuid>
+      <webElementGuid>e684120e-c042-4353-936d-c51eec04b3a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto Produk'])[1]/preceding::select[1]</value>
-      <webElementGuid>ede8fd9a-52b8-4452-ba75-ab7e65632408</webElementGuid>
+      <webElementGuid>5146166f-d8a5-4608-908b-b4b981005c6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>7d8055f3-4a71-4a82-852b-15af38280ce9</webElementGuid>
+      <webElementGuid>1a3d563d-c866-4efa-9810-f513cab94557</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +122,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'kategori' and (text() = 'Pilih KategoriHobyKendaraanBajuElektronikKesehatan' or . = 'Pilih KategoriHobyKendaraanBajuElektronikKesehatan')]</value>
-      <webElementGuid>e89b1558-fd51-4d7d-a4bc-68f2466cfb12</webElementGuid>
+      <webElementGuid>4a7c13e7-0b7f-4172-96b5-45dc072242cb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

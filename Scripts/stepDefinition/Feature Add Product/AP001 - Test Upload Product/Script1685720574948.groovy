@@ -17,7 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.clearText(findTestObject('Page_Productinfo/input_Nama Produk'))
+WebUI.callTestCase(findTestCase('stepDefinition/Feature Login/Login with correct credential'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.sendKeys(findTestObject('Page_Productinfo/input_Nama Produk'), 'otomasi')
+WebUI.callTestCase(findTestCase('Pages/Product/daftarjual'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Pages/daftarjual/Click Tambah Produk'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Pages/productinfo/Input Nama Produk'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Pages/productinfo/Input Harga Produk'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Pages/productinfo/Select Kategori'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Pages/productinfo/Input Deskripsi Produk'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Pages/productinfo/Click Terbitkan'), [:], FailureHandling.STOP_ON_FAILURE)
 
