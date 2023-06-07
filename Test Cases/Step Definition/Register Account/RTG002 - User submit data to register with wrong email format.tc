@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTG002 - User submit data to register with wrong email format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0f834e4-b4ed-4dd6-adda-7b392c2a2df0</testCaseGuid>
+</TestCaseEntity>
